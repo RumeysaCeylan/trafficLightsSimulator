@@ -1,3 +1,3 @@
 # trafficLightsSimulator
-![](desktop finnal.png)
+
 
